@@ -3,3 +3,5 @@ from second import second
 
 first()
 second()
+
+print("Hello World!")
