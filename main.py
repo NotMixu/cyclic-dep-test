@@ -5,3 +5,6 @@ first()
 second()
 
 print("Hello World!")
+
+def something():
+    print("something")
