@@ -1,5 +1,5 @@
-from main import something
+from first import firstdep
 
-def third():
-    something()
+def thirddep():
+    firstdep
     print('third')
