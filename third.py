@@ -1,5 +1,7 @@
 from first import firstdep
+from third import thirddep
 
 def thirddep():
-    firstdep
+    firstdep()
     print('third')
+    print(thirddep)
